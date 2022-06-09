@@ -1,0 +1,24 @@
+{
+  "name": "moviedb",
+  "version": "1.0.0",
+  "description": "Consumiendo API REST",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarovefa/moviedb.git"
+  },
+  "keywords": [
+    "Cosumo",
+    "API",
+    "REST"
+  ],
+  "author": "alvarovefa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvarovefa/moviedb/issues"
+  },
+  "homepage": "https://github.com/alvarovefa/moviedb#readme"
+}
