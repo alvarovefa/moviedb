@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/alvarovefa/moviedb/issues"
   },
-  "homepage": "https://github.com/alvarovefa/moviedb#readme"
+  "homepage": "https://github.com/alvarovefa/moviedb#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
